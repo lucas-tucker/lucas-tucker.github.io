@@ -12,7 +12,7 @@
 
 ### Machine Learning and Mathematics
 
-[Dimension Reduction and the Fenchel Game*](/sample_page){: .small-link}
+[Dimension Reduction and the Fenchel Game (Research Paper)](/sample_page){: .small-link}
 ---
 
 [Notes on Mohri's *Foundations of Machine Learning*](/sample_page){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
