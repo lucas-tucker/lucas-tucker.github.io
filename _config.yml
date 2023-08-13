@@ -1,11 +1,15 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Lucas Tucker # your name (or website title) here
+logo: "/Users/lucastucker/Headshots/Headshot3PNG.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hello! I am a junior at the University of Chicago studying mathematics and
+  computer science. At the moment I am researching a game theoretic framework
+  for dimension reduction algorithms known as Fenchel Game No Regret Dynamics.
+  I also enjoy publishing notes on abstruse literature, which you can find below.
   <br><br>
-  Second description 
+  Outside of my research you can find my speaking Japanese, wrestling
+  and playing guitar. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/lucas-tucker-21b278175">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
