@@ -5,15 +5,13 @@
 ### Machine Learning and Mathematics
 
 [Dimension Reduction and the Fenchel Game](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
 [Notes on Mohri's *Foundations of Machine Learning*](/sample_page)
-# <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 [Notes on Orabona's *A Modern Introduction to Online Learning*](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
