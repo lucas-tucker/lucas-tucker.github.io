@@ -23,10 +23,13 @@
 
 ### Software Development
 
-- [HK](http://example.com/){: .small-link}
-
+- [HK](/sample_page){: .small-link}
 ---
 
+### Misc
+
+- [Guitar YouTube Channel](https://www.youtube.com/channel/UCt09JUmh4oMOzcaV8VFyyoQ){: .small-link}
+---
 
 
 
