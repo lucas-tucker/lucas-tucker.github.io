@@ -1,10 +1,13 @@
 title: Lucas Tucker # your name (or website title) here
-logo: "/Users/lucastucker/Headshots/Headshot3PNG.jpg" # your photo (or logo) here
+logo: "/images/website_headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello! I am a junior at the University of Chicago studying mathematics and
-  computer science. At the moment I am researching a game theoretic framework
+  computer science. 
+  <br><br>
+  At the moment I am researching a game theoretic framework
   for dimension reduction algorithms known as Fenchel Game No Regret Dynamics.
-  I also enjoy publishing notes on abstruse literature, which you can find below.
+  I also enjoy publishing notes on abstruse literature, which you can find to
+  the right.
   <br><br>
   Outside of my research you can find my speaking Japanese, wrestling
   and playing guitar. 

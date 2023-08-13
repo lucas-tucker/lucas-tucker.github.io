@@ -4,15 +4,15 @@
 
 ### Machine Learning and Mathematics
 
-[Project 1 Title](/sample_page)
+[Dimension Reduction and the Fenchel Game](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+
+[Notes on Mohri's *Foundations of Machine Learning*](/sample_page)
+# <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Notes on Orabona's *A Modern Introduction to Online Learning*](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -30,6 +30,3 @@
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
