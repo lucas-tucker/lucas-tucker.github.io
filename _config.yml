@@ -1,6 +1,6 @@
 title: Lucas Tucker # your name (or website title) here
-logo: /images/website_headshot.png" # your photo (or logo) here
-description: # your text below (remove <br> elements if you don't need line breaks)
+logo: /images/website_headshot.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
   Hello! I am a junior at the University of Chicago studying mathematics and
   computer science. 
   <br><br>
