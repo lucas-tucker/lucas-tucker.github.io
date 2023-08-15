@@ -15,10 +15,10 @@
 - [Dimension Reduction and the Fenchel Game (Research Paper)](/sample_page){: .small-link}
 ---
 
-- [Notes on Mohri's *Foundations of Machine Learning*](/sample_page){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+- [Notes and Solutions to Mohri's *Foundations of Machine Learning*](/sample_page){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 ---
 
-- [Notes on Orabona's *A Modern Introduction to Online Learning*](/pdf/sample_presentation.pdf){: .small-link}
+- [Notes and Solutions to Orabona's *A Modern Introduction to Online Learning*](/pdf/sample_presentation.pdf){: .small-link}
 ---
 
 ### Software Development
