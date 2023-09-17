@@ -18,7 +18,7 @@
 - [Notes and Solutions to Mohri's *Foundations of Machine Learning*](/pdf/Published_Mohri_Notes.pdf){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 ---
 
-- [Online Learning Problems from Orabona and Vishnoi (Link not yet available)]
+- [Online Learning Problems from Orabona and Vishnoi](link_not_working)
 ---
 
 ### Software Development
