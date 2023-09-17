@@ -6,24 +6,24 @@
 </style>
 
 
-## Portfolio (links currently not available)
+## Portfolio
 
 ---
 
 ### Machine Learning and Mathematics
 
-- [Dimension Reduction and the Fenchel Game (Research Paper)](/sample_page){: .small-link}
+- [Dimension Reduction and the Fenchel Game (Research Paper)](/REU_page){: .small-link}
 ---
 
-- [Notes and Solutions to Mohri's *Foundations of Machine Learning*](/sample_page){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+- [Notes and Solutions to Mohri's *Foundations of Machine Learning*](/pdf/Published_Mohri_Notes.pdf){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 ---
 
-- [Notes and Solutions to Orabona's *A Modern Introduction to Online Learning*](/pdf/sample_presentation.pdf){: .small-link}
+- [Online Learning Problems from Orabona and Vishnoi (Link not yet available)]
 ---
 
 ### Software Development
 
-- [HK](/sample_page){: .small-link}
+- [Volunteering Application](https://github.com/lucas-tucker/VolunteeringApplication){: .small-link}
 ---
 
 ### Misc
