@@ -24,6 +24,7 @@
 ### Code
 
 - [Code/Experiments for Dimension Reduction and Fenchel Game Paper](/REU_Repo_page){: .small-link}
+---
 
 - [Volunteering Application](https://github.com/lucas-tucker/VolunteeringApplication){: .small-link}
 ---
