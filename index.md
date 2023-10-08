@@ -26,7 +26,10 @@
 - [Code/Experiments for Dimension Reduction and Fenchel Game Paper](/REU_Repo_page){: .small-link}
 ---
 
-- [Volunteering Application](https://github.com/lucas-tucker/VolunteeringApplication){: .small-link}
+- [Checkers Engine](https://github.com/lucas-tucker/Checkers-Engine){: .small-link}
+---
+
+- [HaiKoi (Coming Soon)](https://github.com/lucas-tucker/HKP0){: .small-link}
 ---
 
 ### Misc
