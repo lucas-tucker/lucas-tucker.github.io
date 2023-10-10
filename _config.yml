@@ -5,10 +5,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Hello! I am a junior at the University of Chicago studying mathematics and
   computer science. 
   <br><br>
-  At the moment I am researching a game-theoretic framework
-  for convex optimization problems known as  
-  <a href="https://arxiv.org/abs/2111.11309">Fenchel Game No Regret Dynamics</a>.
-  I also enjoy publishing notes/solutions to sometimes-abstruse literature, which you can find to
+  At the moment I am developing a Haiku-based social media app (HaiKoi) and researching/implementing
+  a systematic trading program for <a href="https://www.paragonnational.org/">Paragon National Group</a>.
+  I also enjoy publishing notes/solutions to sometimes-abstruse ML literature, which you can find to
   the right.
   <br><br>
   Outside of my research you can find me speaking Japanese, wrestling,
