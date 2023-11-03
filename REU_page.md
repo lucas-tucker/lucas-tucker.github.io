@@ -1,4 +1,4 @@
-## Dimension Reduction and the Fenchel Game
+## Dimensionality Reduction and the Fenchel Game
 
 **Abstract:** In this paper, we review the linear dimensionality reduction algorithm Principal Component Analysis (PCA), as well as the non-linear reduction algorithms Isomap and Laplacian Eigenmaps. 
 
