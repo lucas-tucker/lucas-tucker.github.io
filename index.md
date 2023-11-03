@@ -12,7 +12,7 @@
 
 ### Machine Learning and Mathematics
 
-- [Dimension Reduction and the Fenchel Game (Research Paper)](/REU_page){: .small-link}
+- [Dimensionality Reduction and the Fenchel Game (Research Paper)](/REU_page){: .small-link}
 ---
 
 - [Notes and Solutions to Mohri's *Foundations of Machine Learning*](/pdf/Published_Mohri_Notes.pdf){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
@@ -23,7 +23,7 @@
 
 ### Code
 
-- [Code/Experiments for Dimension Reduction and Fenchel Game Paper](/REU_Repo_page){: .small-link}
+- [Code/Experiments for Dimensionality Reduction and Fenchel Game Paper](/REU_Repo_page){: .small-link}
 ---
 
 - [Checkers Engine](https://github.com/lucas-tucker/Checkers-Engine){: .small-link}
