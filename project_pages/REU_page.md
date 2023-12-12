@@ -2,7 +2,7 @@
 
 [Link to paper](../pdf/REU_draft.pdf){: .small-link}
 
-[Accompanying Repo page](/REU_Repo_page){: .small-link}
+[Accompanying Repo page](../project_pages/REU_Repo_page.md){: .small-link}
 
 
 **Abstract:** In this paper, we review the linear dimensionality reduction algorithm Principal Component Analysis (PCA), as well as the non-linear reduction algorithms Isomap and Laplacian Eigenmaps. 
@@ -18,12 +18,12 @@ This paper also proposes an improvement to Laplacian Eigenmaps to maintain struc
   </figure>
 
   <figure style="display: inline-block; text-align: center;">
-    <img src="../images/REU_Media2/SwissRollREUoversstd.png" alt="Standard LE" width="140"/>
+    <img src="../images/REU_Media2/SwissRollREUoversstd.png" alt="Standard LE" width="150"/>
     <figcaption>Standard LE </figcaption>
   </figure>
 
   <figure style="display: inline-block; text-align: center;">
-    <img src="../images/REU_Media2/SwissRollREUoversvarrad.png" alt="Variable Radius LE" width="140"/>
+    <img src="../images/REU_Media2/SwissRollREUoversvarrad.png" alt="Variable Radius LE" width="150"/>
     <figcaption> Variable Radius LE</figcaption>
   </figure>
 </p>
