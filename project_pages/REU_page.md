@@ -19,12 +19,12 @@ This paper also proposes an improvement to Laplacian Eigenmaps to maintain struc
 
   <figure style="display: inline-block; text-align: center;">
     <img src="../images/REU_Media2/SwissRollREUoversstd.png" alt="Standard LE Reduction" width="170"/>
-    <figcaption>Standard LE Reduction </figcaption>
+    <figcaption>A </figcaption>
   </figure>
 
   <figure style="display: inline-block; text-align: center;">
     <img src="../images/REU_Media2/SwissRollREUoversvarrad.png" alt="Variable Radius LE Reduction" width="170"/>
-    <figcaption> Variable Radius LE Reduction </figcaption>
+    <figcaption> B</figcaption>
   </figure>
 </p>
 
