@@ -13,17 +13,17 @@ This paper also proposes an improvement to Laplacian Eigenmaps to maintain struc
 
 <p align="center">
   <figure style="text-align: center;">
-    <img src="../images/REU_Media2/SwissRollREUOversampled.png" alt="Alt Text 1" width="290"/>
+    <img src="../images/REU_Media2/SwissRollREUOversampled.png" alt="Alt Text 1" width="260"/>
     <figcaption> Oversampled Swiss Roll </figcaption>
   </figure>
 
   <figure style="display: inline-block; text-align: center;">
-    <img src="../images/REU_Media2/SwissRollREUoversstd.png" alt="Standard LE Reduction" width="170"/>
+    <img src="../images/REU_Media2/SwissRollREUoversstd.png" alt="Standard LE Reduction" width="140"/>
     <figcaption>A </figcaption>
   </figure>
 
   <figure style="display: inline-block; text-align: center;">
-    <img src="../images/REU_Media2/SwissRollREUoversvarrad.png" alt="Variable Radius LE Reduction" width="170"/>
+    <img src="../images/REU_Media2/SwissRollREUoversvarrad.png" alt="Variable Radius LE Reduction" width="140"/>
     <figcaption> B</figcaption>
   </figure>
 </p>
