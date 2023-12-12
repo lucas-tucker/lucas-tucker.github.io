@@ -4,13 +4,17 @@
 
 We then examine a novel framework (Fenchel Game No Regret Dynamics) for converting convex function minimization into min-max style games, and apply one such method to a reformulation of PCA. 
 
-This paper also serves as a reference for the theoretical underpinning of such popular dimensionality reduction algorithms (which is often left as an afterthought), as well as an attempt to clarify and build upon Wang-Abernathy-Levy's paper.
+This paper also proposes an improvement to Laplacian Eigenmaps to maintain structure despite oversampling, as visualized below.
 
-[Link to paper](/pdf/REU_draft.pdf){: .small-link}
+[Oversampled Swiss Roll](../REU_Media2/SwissRollREUOversampled.png)
+
+[Standard LE Reduction](/REU_Media2/SwissRollREUoversstd.png)
+
+[Variable Radius LE Reduction](/REU_Media2/SwissRollREUoversvarrad.png)
+
+[Link to paper](../pdf/REU_draft.pdf){: .small-link}
 
 [Accompanying Repo page](/REU_Repo_page){: .small-link}
-
-**Disclaimer:** The above paper is a draft, and is still in press at the University of Chicago Mathematics Department
 
 <!--
 ### 1. PCA
