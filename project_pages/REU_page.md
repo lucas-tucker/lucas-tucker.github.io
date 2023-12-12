@@ -14,26 +14,25 @@ This paper also proposes an improvement to Laplacian Eigenmaps to maintain struc
 <p align="center">
 <img src="../images/REU_Media2/SwissRollREUOversampled.png" alt="Alt Text 1" width="400"/>
 
-<img src="../images/REU_Media2/SwissRollREUoversstd.png" alt="Standard LE Reduction" width="150"/> <img src="../images/REU_Media2/SwissRollREUoversvarrad.png" alt="Variable Radius LE Reduction" width="150"/>
+<img src="../images/REU_Media2/SwissRollREUoversstd.png" alt="Standard LE Reduction" width="150"/> <figcaption>Figure 1 </figcaption> <img src="../images/REU_Media2/SwissRollREUoversvarrad.png" alt="Variable Radius LE Reduction" width="150"/> <figcaption>Figure 2 </figcaption>
 </p>
 
 <p align="center">
   <figure>
     <img src="../images/REU_Media2/SwissRollREUOversampled.png" alt="Alt Text 1" width="400"/>
-    <figcaption>Figure 1: Your caption for the first image.</figcaption>
+    <figcaption>Figure 1 </figcaption>
   </figure>
 
-  <figure>
+  <figure style="display: inline-block;">
     <img src="../images/REU_Media2/SwissRollREUoversstd.png" alt="Standard LE Reduction" width="150"/>
-    <figcaption>Figure 2: Your caption for the second image.</figcaption>
+    <figcaption>Figure 2 </figcaption>
   </figure>
 
-  <figure>
+  <figure style="display: inline-block;">
     <img src="../images/REU_Media2/SwissRollREUoversvarrad.png" alt="Variable Radius LE Reduction" width="150"/>
-    <figcaption>Figure 3: Your caption for the third image.</figcaption>
+    <figcaption>Figure 3 </figcaption>
   </figure>
 </p>
-
 
 <!--
 ### 1. PCA
