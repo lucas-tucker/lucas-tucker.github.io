@@ -12,19 +12,19 @@ We then examine a novel framework (Fenchel Game No Regret Dynamics) for converti
 This paper also proposes an improvement to Laplacian Eigenmaps to maintain structure despite oversampling, as visualized below.
 
 <p align="center">
-  <figure>
-    <img src="../images/REU_Media2/SwissRollREUOversampled.png" alt="Alt Text 1" width="300"/>
-    <figcaption style="text-align: center;">Oversampled Swiss Roll </figcaption>
+  <figure style="text-align: center;">
+    <img src="../images/REU_Media2/SwissRollREUOversampled.png" alt="Alt Text 1" width="290"/>
+    <figcaption> Oversampled Swiss Roll </figcaption>
   </figure>
 
   <figure style="display: inline-block; text-align: center;">
-    <img src="../images/REU_Media2/SwissRollREUoversstd.png" alt="Standard LE Reduction" width="200"/>
+    <img src="../images/REU_Media2/SwissRollREUoversstd.png" alt="Standard LE Reduction" width="170"/>
     <figcaption>Standard LE Reduction </figcaption>
   </figure>
 
   <figure style="display: inline-block; text-align: center;">
-    <img src="../images/REU_Media2/SwissRollREUoversvarrad.png" alt="Variable Radius LE Reduction" width="200"/>
-    <figcaption> Proposed Variable Radius LE Reduction </figcaption>
+    <img src="../images/REU_Media2/SwissRollREUoversvarrad.png" alt="Variable Radius LE Reduction" width="170"/>
+    <figcaption> Variable Radius LE Reduction </figcaption>
   </figure>
 </p>
 
