@@ -1,5 +1,10 @@
 ## Dimensionality Reduction and the Fenchel Game
 
+[Link to paper](../pdf/REU_draft.pdf){: .small-link}
+
+[Accompanying Repo page](/REU_Repo_page){: .small-link}
+
+
 **Abstract:** In this paper, we review the linear dimensionality reduction algorithm Principal Component Analysis (PCA), as well as the non-linear reduction algorithms Isomap and Laplacian Eigenmaps. 
 
 We then examine a novel framework (Fenchel Game No Regret Dynamics) for converting convex function minimization into min-max style games, and apply one such method to a reformulation of PCA. 
@@ -8,13 +13,12 @@ This paper also proposes an improvement to Laplacian Eigenmaps to maintain struc
 
 ![Oversampled Swiss Roll](../images/REU_Media2/SwissRollREUOversampled.png)
 
-![Standard LE Reduction](../images/REU_Media2/SwissRollREUoversstd.png)
+![Standard LE Reduction](../images/REU_Media2/SwissRollREUoversstd.png =50x) ![Variable Radius LE Reduction](../images/REU_Media2/SwissRollREUoversvarrad.png =50x)
 
-![Variable Radius LE Reduction](../images/REU_Media2/SwissRollREUoversvarrad.png)
+<img src="../images/REU_Media2/SwissRollREUOversampled.png" alt="Alt Text 1" width="100"/>
 
-[Link to paper](../pdf/REU_draft.pdf){: .small-link}
+<img src="../images/REU_Media2/SwissRollREUoversstd.png" alt="Standard LE Reduction" width="50"/> <img src="../images/REU_Media2/SwissRollREUoversvarrad.png" alt="Variable Radius LE Reduction" width="50"/>
 
-[Accompanying Repo page](/REU_Repo_page){: .small-link}
 
 <!--
 ### 1. PCA
