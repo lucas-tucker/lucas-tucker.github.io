@@ -1,6 +1,6 @@
 ## Dimensionality Reduction Paper
 
-[Link to paper](../pdf/REU_draft.pdf){: .small-link}
+[Link to paper](https://math.uchicago.edu/~may/REU2023/REUPapers/Tucker.pdf){: .small-link}
 
 [Accompanying Repo page](../project_pages/REU_Repo_page.md){: .small-link}
 
