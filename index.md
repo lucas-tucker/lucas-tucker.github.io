@@ -29,13 +29,12 @@
 - [Checkers Engine](https://github.com/lucas-tucker/Checkers-Engine){: .small-link}
 ---
 
-- [HaiKoi (Coming Soon)](https://github.com/lucas-tucker/HKP0){: .small-link}
+- [QuickRAG](https://github.com/lucas-tucker/QuickRAG){: .small-link}
 ---
 
 ### Misc
 
 - [Guitar YouTube Channel](https://www.youtube.com/channel/UCt09JUmh4oMOzcaV8VFyyoQ){: .small-link}
 ---
-
 
 
