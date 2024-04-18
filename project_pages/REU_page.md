@@ -5,11 +5,9 @@
 [Accompanying Repo page](../project_pages/REU_Repo_page.md){: .small-link}
 
 
-**Abstract:** In this paper, we review the linear dimensionality reduction algorithm Principal Component Analysis (PCA), as well as the non-linear reduction algorithms Isomap and Laplacian Eigenmaps. 
+**Abstract:** This paper examines PCA as well as non-linear reduction algorithms before delving into "Fenchel Game No Regret Dynamics" - a framework for converting convex function minimization into min-max style games - and applying one such method to a reformulation of PCA. 
 
-We then examine a novel framework (Fenchel Game No Regret Dynamics) for converting convex function minimization into min-max style games, and apply one such method to a reformulation of PCA. 
-
-This paper also proposes an improvement to Laplacian Eigenmaps to maintain structure despite oversampling, as visualized below.
+Along the way, this paper proposes an improvement to Laplacian Eigenmaps (non-linear reduction algorithm) to maintain structure despite oversampling, as visualized below.
 
 <p align="center">
   <figure style="text-align: center;">
@@ -24,7 +22,7 @@ This paper also proposes an improvement to Laplacian Eigenmaps to maintain struc
 
   <figure style="display: inline-block; text-align: center;">
     <img src="../images/REU_Media2/SwissRollREUoversvarrad.png" alt="Variable Radius LE" width="150"/>
-    <figcaption> Variable Radius LE</figcaption>
+    <figcaption> Proposed "Variable Radius" LE</figcaption>
   </figure>
 </p>
 
