@@ -5,4 +5,4 @@
 
 [Link to Repo](https://github.com/lucas-tucker/REU-2023){: .small-link}
 
-**Note:** This accompanying project allowed me to apply the theory developed in my paper and taught me a bit about PyTorch and Ray. 
+This accompanying project allowed me to apply the theory developed in my paper and taught me reformulating math into code takes many levels of optimization (and can often always be further optimized, as is certainly the case here).
