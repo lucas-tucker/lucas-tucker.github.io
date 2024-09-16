@@ -18,8 +18,6 @@
 - [Notes and Solutions to Mohri's *Foundations of Machine Learning*](/pdf/Published_Mohri_Notes.pdf){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 ---
 
-- [Convexity and No Regret Notes](/pdf/No_Regret___Convexity_Notes.pdf){: .small-link}
----
 
 ### Code
 
