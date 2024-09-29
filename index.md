@@ -11,8 +11,10 @@
 ---
 
 ### Machine Learning and Mathematics
+- [PCA: Theoretical and Computational Considerations](/pdf/PCA_Analysis_Paper.pdf){: .small-link}
+---
 
-- [Dimensionality Reduction Research Paper](/project_pages/REU_page){: .small-link}
+- [Dimensionality Reduction Paper](/project_pages/REU_page){: .small-link}
 ---
 
 - [Notes and Solutions to Mohri's *Foundations of Machine Learning*](/pdf/Published_Mohri_Notes.pdf){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
