@@ -23,7 +23,7 @@
 
 ### Code
 
-- [Code/Experiments for Dimensionality Reduction Paper](/project_pages/REU_Repo_page){: .small-link}
+- [Code Review App](https://github.com/lucas-tucker/greptile_app){: .small-link}
 ---
 
 - [Checkers Engine](https://github.com/lucas-tucker/Checkers-Engine){: .small-link}
