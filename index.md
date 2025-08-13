@@ -2,6 +2,7 @@
     /* Define a class to style the smaller links */
     .small-link {
         font-size: 80%; /* You can adjust the percentage as needed */
+        font-family: "Courier New", Courier, monospace;
     }
 </style>
 
@@ -10,14 +11,14 @@
 
 ---
 
-### math and machine learning
-- [writeup on computational/theoretical aspects of principal component analysis (pca)](/pdf/PCA_Analysis_Paper.pdf){: .small-link}
+### math and machine learning (ml)
+- [writeup on principal component analysis (pca)](/pdf/PCA_Analysis_Paper.pdf){: .small-link}
 ---
 
 - [writeup on algorithmic game theory](/pdf/FisherMarketsProject.pdf){: .small-link}
 ---
 
-- [brief solution guide to a well-known ml book](/pdf/Published_Mohri_Notes.pdf){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+- [partial solution guide to an ml book](/pdf/Published_Mohri_Notes.pdf){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 ---
 
 
@@ -29,7 +30,7 @@
 - [checkers engine](https://github.com/lucas-tucker/Checkers-Engine){: .small-link}
 ---
 
-- [quick retrieval augmented generation tool](https://github.com/lucas-tucker/QuickRAG){: .small-link}
+- [retrieval-augmented generation (rag) tool](https://github.com/lucas-tucker/QuickRAG){: .small-link}
 ---
 
 ### misc
