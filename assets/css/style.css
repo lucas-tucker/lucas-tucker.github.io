@@ -1,0 +1,10 @@
+header img {
+  width: auto;
+  height: auto;
+  max-width: 200px; /* set desired max width */
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
