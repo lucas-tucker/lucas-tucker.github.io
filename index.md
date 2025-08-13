@@ -2,8 +2,8 @@
 <style>
     /* Define a class to style the smaller links */
     .small-link {
-        font-size: 80%; /* You can adjust the percentage as needed */
-        font-family: "Special Elite", monospace;
+        font-size: 80%; /* Adjust the percentage as needed */
+        font-family: Arial, Helvetica, sans-serif;
     }
 </style>
 
