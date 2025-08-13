@@ -1,8 +1,12 @@
 <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
 <style>
     /* Define a class to style the smaller links */
-    .small-link {
-        font-size: 80%; /* Adjust the percentage as needed */
+    /* .small-link {
+        font-size: 80%; 
+        font-family: Arial, Helvetica, sans-serif;
+    } */
+    /* Apply sans-serif font everywhere on the page */
+    body {
         font-family: Arial, Helvetica, sans-serif;
     }
 </style>
@@ -13,10 +17,10 @@
 ---
 
 ### math and machine learning (ml)
-- [writeup on principal component analysis (pca)](/pdf/PCA_Analysis_Paper.pdf){: .small-link}
+- [write-up on principal component analysis (pca)](/pdf/PCA_Analysis_Paper.pdf){: .small-link}
 ---
 
-- [writeup on algorithmic game theory](/pdf/FisherMarketsProject.pdf){: .small-link}
+- [write-up on algorithmic game theory](/pdf/FisherMarketsProject.pdf){: .small-link}
 ---
 
 - [partial solution guide to an ml book](/pdf/Published_Mohri_Notes.pdf){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
