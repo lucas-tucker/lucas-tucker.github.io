@@ -1,8 +1,9 @@
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
 <style>
     /* Define a class to style the smaller links */
     .small-link {
         font-size: 80%; /* You can adjust the percentage as needed */
-        font-family: "Courier New", Courier, monospace;
+        font-family: "Special Elite", monospace;
     }
 </style>
 
