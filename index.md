@@ -6,35 +6,35 @@
 </style>
 
 
-## Portfolio
+## portfolio
 
 ---
 
-### Machine Learning and Mathematics
-- [PCA: Theoretical and Computational Considerations](/pdf/PCA_Analysis_Paper.pdf){: .small-link}
+### math and machine learning
+- [writeup on computational/theoretical aspects of principal component analysis (pca)](/pdf/PCA_Analysis_Paper.pdf){: .small-link}
 ---
 
-- [Fisher Markets with Linear and Leontief Utility Functions](/pdf/FisherMarketsProject.pdf){: .small-link}
+- [writeup on algorithmic game theory](/pdf/FisherMarketsProject.pdf){: .small-link}
 ---
 
-- [Notes and Solutions to Mohri's *Foundations of Machine Learning*](/pdf/Published_Mohri_Notes.pdf){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+- [brief solution guide to a well-known ml book](/pdf/Published_Mohri_Notes.pdf){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 ---
 
 
-### Code
+### code
 
-- [Code Review App](https://github.com/lucas-tucker/greptile_app){: .small-link}
+- [code review app](https://github.com/lucas-tucker/greptile_app){: .small-link}
 ---
 
-- [Checkers Engine](https://github.com/lucas-tucker/Checkers-Engine){: .small-link}
+- [checkers engine](https://github.com/lucas-tucker/Checkers-Engine){: .small-link}
 ---
 
-- [QuickRAG](https://github.com/lucas-tucker/QuickRAG){: .small-link}
+- [quick retrieval augmented generation tool](https://github.com/lucas-tucker/QuickRAG){: .small-link}
 ---
 
-### Misc
+### misc
 
-- [Guitar YouTube Channel](https://www.youtube.com/channel/UCt09JUmh4oMOzcaV8VFyyoQ){: .small-link}
+- [guitar channel](https://www.youtube.com/channel/UCt09JUmh4oMOzcaV8VFyyoQ){: .small-link}
 ---
 
 
