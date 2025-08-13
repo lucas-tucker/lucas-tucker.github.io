@@ -1,15 +1,13 @@
 title: Lucas Tucker # your name (or website title) here
-logo: /images/web_hs.jpg?raw=true" # your photo (or logo) here
+logo: /images/ProfilePic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  I am a senior at the University of Chicago studying mathematics &
-  computer science, with a passion for data-intensive applications.
+  I am a software engineer at Adobe working on a data streaming team that works
+  at petabyte scale (think CosmosDB, Apache Spark & Kafka).
   <br><br>
-  I will be joining a real-time data processing team at Adobe. Outside of my
-  studies you can find me speaking Japanese, wrestling, and playing guitar with
-  the Property Damagers™. 
+  Outside of work I enjoy contributing to vLLM, learning languages and *recently* cooking
   <br><br>
-  <a href="https://www.linkedin.com/in/lucas-tucker-21b278175">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/lucas-tucker-21b278175">linkedin</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
