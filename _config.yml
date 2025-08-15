@@ -3,7 +3,7 @@ logo: /images/UpdatedProfilePic.jpeg #?raw=true # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   I am a software engineer at Adobe working on a data streaming team that operates
-  at petabyte scale (think CosmosDB, Apache Spark & Kafka).
+  at petabyte scale (think Delta Lake, Apache Spark & Kafka).
   <br><br>
   Outside of work I enjoy contributing to vLLM, learning languages and playing tunes.
   <br><br>
