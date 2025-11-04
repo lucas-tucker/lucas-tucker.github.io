@@ -1,10 +1,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
 <style>
     /* Define a class to style the smaller links */
-    /* .small-link {
+    .small-link {
         font-size: 80%; 
         font-family: Arial, Helvetica, sans-serif;
-    } */
+    }
     /* Apply sans-serif font everywhere on the page */
     body {
         font-family: Arial, Helvetica, sans-serif;
