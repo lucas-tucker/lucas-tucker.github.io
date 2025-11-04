@@ -16,18 +16,22 @@
 
 ---
 
-### math and machine learning (ml)
-- [write-up on principal component analysis (pca)](/pdf/PCA_Analysis_Paper.pdf){: .small-link}
+### math and machine learning
+
+- [how to break OpenAI's whisper models](/pdf/whisper_paper.pdf){: .small-link}
 ---
 
-- [write-up on algorithmic game theory](/pdf/FisherMarketsProject.pdf){: .small-link}
+- [making pca go fast is kind of hard](/pdf/PCA_Analysis_Paper.pdf){: .small-link}
+---
+
+- [some notes on algorithmic game theory](/pdf/FisherMarketsProject.pdf){: .small-link}
 ---
 
 - [partial solution guide to an ml book](/pdf/Published_Mohri_Notes.pdf){: .small-link} <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 ---
 
 
-### code
+### code (before vibecoding was a thing)
 
 - [code review app](https://github.com/lucas-tucker/greptile_app){: .small-link}
 ---
