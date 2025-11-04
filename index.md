@@ -31,7 +31,7 @@
 ---
 
 
-### code (before vibecoding was a thing)
+<!-- ### code (before vibecoding was a thing)
 
 - [code review app](https://github.com/lucas-tucker/greptile_app){: .small-link}
 ---
@@ -40,7 +40,7 @@
 ---
 
 - [retrieval-augmented generation (rag) tool](https://github.com/lucas-tucker/QuickRAG){: .small-link}
----
+--- -->
 
 ### misc
 
