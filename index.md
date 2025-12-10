@@ -21,7 +21,7 @@
 - [how to break OpenAI's whisper models](/pdf/whisper_paper.pdf){: .small-link}
 ---
 
-- [making pca go fast is kind of hard](/pdf/PCA_Analysis_Paper.pdf){: .small-link}
+- [making pca go faster is not easy](/pdf/PCA_Analysis_Paper.pdf){: .small-link}
 ---
 
 - [some notes on algorithmic game theory](/pdf/FisherMarketsProject.pdf){: .small-link}
